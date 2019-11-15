@@ -1,0 +1,11757 @@
+#VRML V2.0 utf8
+NavigationInfo {
+headlight TRUE
+type   ["EXAMINE", "WALK", "ANY"]
+}
+Group {
+children [
+DirectionalLight {
+direction 2. 0. 2.
+intensity 1.0
+color 0.9 0.05 0.05
+}
+DirectionalLight {
+direction 2. 2. 2.
+intensity 1.0
+color 0.05 0.9 0.05
+}
+DirectionalLight {
+direction 0. 2. 2.
+intensity 1.0
+color 0.05 0.05 0.9
+}
+DirectionalLight {
+direction -2. -2. -2.
+intensity 1.0
+color 0.9 0.7 0.9
+}#BeginBoxShape
+Transform {
+translation 1.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 1.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 1.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 2.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 2.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 6.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 6.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 7.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 7.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 2.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 3.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 3.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 3.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 3.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 3.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 3.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 3.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 3.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 3.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 1.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 1.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 2.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 2.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 6.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 6.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 7.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 7.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 4.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 5.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 5.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 5.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 5.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 5.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 1.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 1.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 2.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 2.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 6.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 6.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 7.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 7.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 6.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 7.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 8.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 9.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 10.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 11.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 12.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 13.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 14.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 15.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 16.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 17.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 18.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 19.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 20.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 21.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 22.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 23.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 24.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 25.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 26.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 27.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 28.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 29.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 1.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 1.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 1.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 1.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 1.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 2.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 2.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 3.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 3.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 4.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 4.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 5.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 5.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 6.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 6.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 7.5 1.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 7.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 7.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 7.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 30.5 7.5 7.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 2.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 2.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 2.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 3.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 3.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 3.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 3.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 3.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 4.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 4.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 4.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 4.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 4.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 5.5 2.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 5.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 5.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 5.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 5.5 6.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 6.5 3.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 6.5 4.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape#BeginBoxShape
+Transform {
+translation 31.5 6.5 5.5
+children [
+Shape {
+appearance Appearance {
+material Material {
+diffuseColor 1. 1. 1.
+}
+}
+geometry Box {
+size 1. 1. 1.
+}
+}
+]
+}
+#EndBoxShape
+]
+}

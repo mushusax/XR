@@ -1,0 +1,22 @@
+{
+  "name": "xrdeploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellowyetti/XR.git"
+  },
+  "author": "yellowyetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yellowyetti/XR/issues"
+  },
+  "homepage": "https://github.com/yellowyetti/XR#readme",
+  "dependencies": {
+    "three": "^0.110.0"
+  }
+}
