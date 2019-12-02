@@ -11,8 +11,13 @@
 		<script src="node_modules/three/build/three.min.js"></script>
     <script src="node_modules/three/examples/js/loaders/OBJLoader.js"></script>
     <script src="node_modules/three/examples/js/loaders/VRMLLoader.js"></script>
+    <script src="node_modules/three/examples/js/loaders/VRMLLoader.js"></script>
     <script src="node_modules/three/examples/js/controls/OrbitControls.js"></script>
     <script src="node_modules/three/examples/js/controls/TrackballControls.js"></script>
+    <script src="node_modules/three/examples/js/vr/WebVR.js"></script>
+    <script src="node_modules/three/examples/js/effects/StereoEffect.js"></script>
+
+    <script src="Detector.js"></script>
 
 
     <script>
@@ -58,7 +63,7 @@
         // scene.add(box);
 
         //add three point lighting
-        
+
         var keyLight = new THREE.DirectionalLight(new THREE.Color('hsl(30, 100%, 75%)'), 1.0);
         keyLight.position.set(-100, 0, 100);
 
@@ -72,18 +77,34 @@
         scene.add(fillLight);
         scene.add(backLight);
 
-
         var loader = new THREE.OBJLoader();
-        loader.load("./tree.obj", function(object) {
+        loader.load("plot", function (obj){
+         obj.position.set(10, controls.userHeight/2.3, 10);
+         obj.scale.set(20,20,20)
+         var loader = new THREE.MTLLoader()
+         loader.load('plot.mtl')
+                console.log("gggggg")
+                obj.traverse(function(child) {
+                if(child instanceof THREE.Mesh) {
+                  child.material.color.setHex(0xff0000);
+                   }
+                });
 
-            object.traverse(function(child) {
-              if(child instanceof THREE.Mesh) {
-                child.material.color = 0xffb830;
-              }
-            });
-            object.position.set(0, 0, -1);
-            scene.add(object);
-          });
+        });
+
+
+
+        // var loader = new THREE.VRMLLoader();
+        // loader.load("tower.wrl", function(object) {
+        //   object.position.set(0,-1,0);
+        //   scene.add(object);
+        //
+        //   if(object instanceof THREE.Mesh) {
+        //     object.material.color.setHex(0xff0000);
+        //   }
+        // });
+
+
       }
 
 			function animate() {
